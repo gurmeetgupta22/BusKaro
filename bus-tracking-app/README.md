@@ -7,9 +7,7 @@ A production-ready, secure, and scalable bus tracking application for college st
 ### For Students
 - ✅ Real-time bus location tracking on interactive map
 - 📍 "Pick Me Up" feature to pin pickup locations
-- 💳 Fee payment integration (Razorpay)
 - 🔔 Smart notifications for bus arrival and fee reminders
-- 📊 Attendance history
 - 🔍 Search buses by route/number
 
 ### For Drivers
