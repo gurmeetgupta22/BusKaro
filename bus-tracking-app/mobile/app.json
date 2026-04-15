@@ -1,0 +1,18 @@
+{
+    "expo": {
+        "name": "Bus Tracking",
+        "slug": "bus-tracking-mobile",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "light",
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "backgroundColor": "#ffffff"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+# Root node modules
+node_modules/
+npm-debug.log*
+
+# Environment
+.env
+.env.*.local
+*.local
+!.env.example
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Build Output
+dist/
+build/
+coverage/
+
+# Databases
+*.sqlite
+*.db
+
+# Misc Temp
+tmp/
+temp/

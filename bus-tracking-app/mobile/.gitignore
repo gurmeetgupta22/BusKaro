@@ -1,0 +1,21 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS
+.DS_Store
+
+# Environments
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# Build
+web-build/
+android/app/build/
+ios/build/
